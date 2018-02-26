@@ -31,5 +31,6 @@ p {
 }
 
 #input-buttons:hover {
+  color: white;
   background-color: #666666;
 }

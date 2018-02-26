@@ -12,11 +12,22 @@ label {
 }
 
 
+
 .labels {
   background: url('styles/form-elements-sprite.png');
   height: 70px;
   width: 70px;
 }
+
+#target-checkbox-img {
+  background-position: -100px 0px;
+}
+
+#target-radio-img {
+  background-position: -400px 0px;
+}
+
+
 
 
 /* #radio .labels, #checkbox .labels {
