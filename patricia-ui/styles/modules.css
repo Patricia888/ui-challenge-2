@@ -10,3 +10,22 @@ section p {
 #text-input input:invalid {
   border: 1px solid red;
 }
+
+#username {
+  width: 825px;
+  height: 35px;
+}
+
+p {
+  margin-left: 620px;
+}
+
+#select {
+  width: 825px;
+  height: 35px;
+}
+
+#button input {
+  width: 150px;
+  height: 40px;
+}

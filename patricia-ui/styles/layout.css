@@ -3,7 +3,27 @@ label {
   margin-top: 20px;
 }
 
-/* input {
-  display: none;
-} */
 
+#radio .labels, #checkbox .labels {
+  background-image: url('styles/form-elements-sprite.png');
+}
+
+#checkbox input[type="checkbox"]:not(:checked) + label {
+  height: 70px;
+  background-position: -480px -275px;
+}
+
+#checkbox #input-pri-checkbox:checked + label {
+  height: 70px;
+  background-position: -547px -275px;
+}
+
+#radio input[type="checkbox"]:not(:checked) + label {
+  height: 70px;
+  background-position: -610px -275px;
+}
+
+#radio #input-pri-radio:checked + label {
+  height: 70px;
+  background-position: -680px -275px;
+}
