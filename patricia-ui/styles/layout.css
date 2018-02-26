@@ -1,0 +1,64 @@
+label {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+#checkbox input {
+  display: none;
+}
+
+#radio input {
+  display: none;
+}
+
+
+
+.labels {
+  background: url('styles/form-elements-sprite.png');
+  height: 70px;
+  width: 70px;
+}
+
+#target-checkbox-img {
+  background-position: -100px 0px;
+}
+
+#target-radio-img {
+  background-position: -400px 0px;
+}
+
+
+
+
+/* #radio .labels, #checkbox .labels {
+  width: 65px;
+  height: 70px;
+  background-image: url('styles/form-elements-sprite.png');
+  background-size : 440px 200px;
+} */
+
+/* #checkbox input[type="checkbox"]:not(:checked) + label {
+  left: 0;
+  width: 100px;
+  background: url('patricia-ui/form-elements-sprite.png') 0 0;
+}
+
+#checkbox #input-checkbox:checked + label {
+  left: 0;
+  width: 100px;
+  background: url('patricia-ui/form-elements-sprite.png') 0 0;
+}
+
+#radio input[type="checkbox"]:not(:checked) + label {
+  left: 100;
+  width: 200px;
+  background: url('patricia-ui/form-elements-sprite.png') -90px 0;
+}
+
+#radio #input-radio:checked + label {
+  left: 100;
+  width: 200px;
+  background: url('patricia-ui/form-elements-sprite.png') -90px 0;
+} */
+
+
