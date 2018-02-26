@@ -1,6 +1,6 @@
 # UI Challenge
 
-This is an Ui Challenge. We have 3 hours to make and style a page to look as close as possible to a comp image. No JS is allowed, and a sprite sheet must be used.
+This is an Ui Challenge. We have 3 hours to make and style a page to look as close as possible to a comp image. No JS is allowed, and a sprite sheet must be used for checkbox, radio box, and arrows.
 
 ## Resources Used
 
