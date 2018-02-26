@@ -29,3 +29,7 @@ p {
   width: 150px;
   height: 40px;
 }
+
+#input-buttons:hover {
+  background-color: #666666;
+}
