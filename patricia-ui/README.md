@@ -5,3 +5,4 @@ This is an Ui Challenge. We have 3 hours to make and style a page to look as clo
 ## Resources Used
 
 https://css-tricks.com/css-sprites/
+https://www.w3schools.com/html/html_forms.asp

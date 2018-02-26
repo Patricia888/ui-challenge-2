@@ -2,3 +2,11 @@ h1 {
   text-decoration: underline;
   text-align: center;
 }
+
+section p {
+  color: red;
+}
+
+#text-input input:invalid {
+  border: 1px solid red;
+}
